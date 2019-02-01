@@ -73,6 +73,5 @@ public class Magiccardgamemodel  {
 System.out.println();
         }
 
-
-        }
+     }
     }
