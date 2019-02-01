@@ -1,4 +1,8 @@
 package com.lambton.magicalcardgame;
 
-public class MagicalCardGameCalculator {
+public class MagicalCardGameCalculator
+
+{
+
+
 }

@@ -1,7 +1,7 @@
 package com.lambton.magicalcardgame;
 
 
-public class Magiccardgamemodel {
+public class Magiccardgamemodel  {
 
     String firstShuffleColPos;
 
@@ -71,6 +71,11 @@ public class Magiccardgamemodel {
 
             }
 System.out.println();
+        }
+
+        public void getFirstShuffleResult()
+        {
+
         }
     }
 }
