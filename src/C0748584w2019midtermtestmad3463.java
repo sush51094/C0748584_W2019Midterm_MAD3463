@@ -21,7 +21,7 @@ public class C0748584w2019midtermtestmad3463 {
         String str = sc.nextLine();
         obj.getFirstShuffle();
         obj.getSecShuffle();
-        
+obj.getFirstShuffle();
 
     }
 }

@@ -73,6 +73,40 @@ public class MagicalCardGameCalculator implements I {
 
             }
 
+            public String getFinalResult(Magiccardgamemodel magicalCardGameModel);
+
+            {
+                for (int i = 0; i < 2; i++) {
+                    for (int j = 0; j < 2; j++) {
+                        cardlist[i][j] = cardlist[j][i];
+                    }
+                }
+            }
+            for (int i = 0; i < 2; i++) {
+                for (int j = 0; j < 2; j++) {
+                    cardlist[i][j] = cardlist[j][i];
+                }
+            }
+
+        }
+    else
+
+        {
+            for (int i = 0; i < 2; i++) {
+                for (int j = 0; j < 2; j++) {
+                    card list[i][j] = cardlist[j][i];
+                }
+            }
+
+            for (int i = 0; i < 2; i++) {
+                for (int j = 0; j < 2; j++) {
+                    cardlist[i][j] = cardlist[j][i];
+
+                    System.out.print(cardlist[i][j]);
+
+
+                }
+
 
 
 
