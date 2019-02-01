@@ -73,9 +73,6 @@ public class Magiccardgamemodel  {
 System.out.println();
         }
 
-        public void getFirstShuffleResult()
-        {
 
         }
     }
-}
