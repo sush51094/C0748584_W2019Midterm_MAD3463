@@ -9,6 +9,9 @@ public class C0748584w2019midtermtestmad3463 {
         Magiccardgamemodel obj= new Magiccardgamemodel();
 
         System.out.println("please enter the card");
+        
+        Scanner sc = new Scanner(System.in);
+        String str = sc.nextLine();
 
         obj.display();
 
